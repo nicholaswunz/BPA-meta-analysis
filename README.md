@@ -6,7 +6,7 @@ This repository contains code and data needed to reproduce the article:
 
 - raw data.csv - Data used for the analysis.
 - R code.R - R code for statistical analysis and produce figures for the article.
-- Supplementary file.PDF or docx - includes statistical outcomes and additional figures from the main document.
+- Supplementary file.PDF or docx - Includes statistical outcomes and additional figures from the main document.
 
 ## Abstract
 Plastic pollution is an enormous global environmental and health concern. Environmentally-leaching endocrine-disrupting chemicals (EDC) such as bisphenol A (BPA) have been well-documented. However, an integrative perspective of the extent, magnitude, and variation of the effects of BPA on aquatic organisms is incomplete. We performed a meta-analysis to examine the effects of BPA exposure (concentration and duration) on various functional traits (e.g. reproductive, behaviour, development), and across different biological scales (macromolecule to organism response) of aquatic organisms. Con-currently, we used a systematic method to review our current understanding and BPA and to provide future directions for EDC research. We show that…
