@@ -2,7 +2,7 @@
 
 This repository contains code and data needed to reproduce the article:
 
-**Wu N. C., & Seebacher, F.** Effect of the plastic pollutant bisphenol A on the biology of aquatic organisms: A global meta-analysis (In prep)
+**Wu N. C., & Seebacher, F.** Effect of the plastic pollutant bisphenol A on the biology of aquatic organisms: A meta-analysis (2020) Global Change Biology
 
 - raw data.csv - Data used for the analysis.
 - R code.R - R code for statistical analysis and produce figures for the article.
