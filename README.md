@@ -4,19 +4,19 @@ This repository contains code and data needed to reproduce the article:
 
 **Wu N. C., & Seebacher, F.** Effect of the plastic pollutant bisphenol A on the biology of aquatic organisms: A meta-analysis (2020) *Global Change Biology*
 
-Raw data
+**Raw data**
 - meta data raw.csv    - Meta-data used for the meta-analysis.
 - BPA level enviro.csv - Environmental BPA data used for the analysis.
 - BPA level taxa.csv   - BPA in aquatic organisms data used for the analysis.
 - world_2.csv          - BPA and plastic level data used for the analysis.
 - phylo_cor_all.RDAT   - Phylogenetic co-variance matrix for the meta-analysis.
 
-R codes
+**R codes**
 - meta_analysis.R      - Meta-analysis, meta-regressions and figure production.
 - meta_phylo.R         - Build phylogeny and estimate phylogenetic relatedness among species.
 - BPA levels.R         - Plotting BPA levels in taxa and the envrironment, produce global distribution map and analysis.
 
-Extra files
+**Extra files**
 - GCB-20-0299_SI.PDF - Supplemtary file includes statistical outcomes and additional figures and descriptions from the main document.
 
 ## Abstract
