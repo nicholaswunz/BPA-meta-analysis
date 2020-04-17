@@ -57,9 +57,9 @@ paper_ID,country,area,taxa,common_name,scientific_name,trophic_level,food_type,e
 4,Italy,northern coast of Sicily ,Fish,Red mullet,Mullus_barbatus,Secondary consumer,Carnivore,marine,muscle,max,58.9,ng g,0.1,FALSE,58.9,58.9,58.9,12,Errico et al (2017),
 4,Italy,northern coast of Sicily ,Fish,Red mullet,Mullus_barbatus,Secondary consumer,Carnivore,marine,liver,min,35,ng g,0.1,FALSE,35,35,35,12,Errico et al (2017),
 4,Italy,northern coast of Sicily ,Fish,Red mullet,Mullus_barbatus,Secondary consumer,Carnivore,marine,liver,max,77.6,ng g,0.1,FALSE,77.6,77.6,77.6,12,Errico et al (2017),
-5,China,Panlong river,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,liver,mean,30,ng g,0.3,FALSE,30,30,30,,Wang et al (2016),https://www.sciencedirect.com/science/article/pii/S0147651316300483
-5,China,Panlong river,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,gills,mean,18,ng g,0.3,FALSE,18,18,18,,Wang et al (2016),
-5,China,Panlong river,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,12,ng g,0.3,FALSE,12,12,12,,Wang et al (2016),
+5,China,Panlong river,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,liver,mean,30,ng g,0.3,FALSE,30,30,30,,Wang et al (2016),https://www.sciencedirect.com/science/article/pii/S0147651316300483
+5,China,Panlong river,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,gills,mean,18,ng g,0.3,FALSE,18,18,18,,Wang et al (2016),
+5,China,Panlong river,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,12,ng g,0.3,FALSE,12,12,12,,Wang et al (2016),
 5,China,Panlong river,Fish,Common carp,Cyprinus_carpio,Secondary consumer,Omnivore,freshwater,liver,mean,112,ng g,0.3,FALSE,112,112,112,,Wang et al (2016),
 5,China,Panlong river,Fish,Common carp,Cyprinus_carpio,Secondary consumer,Omnivore,freshwater,gills,mean,25,ng g,0.3,FALSE,25,25,25,,Wang et al (2016),
 5,China,Panlong river,Fish,Common carp,Cyprinus_carpio,Secondary consumer,Omnivore,freshwater,muscle,mean,21,ng g,0.3,FALSE,21,21,21,,Wang et al (2016),
@@ -99,9 +99,9 @@ paper_ID,country,area,taxa,common_name,scientific_name,trophic_level,food_type,e
 11,Netherland,Dutch water system,Fish,European flounder,Platichthys_flesus,Secondary consumer,Carnivore,marine,liver,mean,21.25,ng g,11,FALSE,21.25,21.25,21.25,10,Belfroid et al (2002),
 11,Netherland,Dutch water system,Fish,European flounder,Platichthys_flesus,Secondary consumer,Carnivore,marine,muscle,mean,7.33,ng g,11,TRUE,0,3.665,5.183092706,30,Belfroid et al (2002),
 11,Netherland,Dutch water system,Molluscs,blue mussel,Mytilus_edulis,Primary consumer,Planktivore,marine,muscle,mean,10,ng g,11,TRUE,0,5,7.071067812,,Belfroid et al (2002),
-12,China,Dianchi Lake,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,22.33,ng g,0.3,FALSE,22.33,22.33,22.33,37,Liu et al (2011),https://www.sciencedirect.com/science/article/pii/S0269749111002806
-12,China,Dianchi Lake,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,gills,mean,24,ng g,0.3,FALSE,24,24,24,37,Liu et al (2011),
-12,China,Dianchi Lake,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,liver,mean,27,ng g,0.3,FALSE,27,27,27,37,Liu et al (2011),
+12,China,Dianchi Lake,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,22.33,ng g,0.3,FALSE,22.33,22.33,22.33,37,Liu et al (2011),https://www.sciencedirect.com/science/article/pii/S0269749111002806
+12,China,Dianchi Lake,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,gills,mean,24,ng g,0.3,FALSE,24,24,24,37,Liu et al (2011),
+12,China,Dianchi Lake,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,liver,mean,27,ng g,0.3,FALSE,27,27,27,37,Liu et al (2011),
 12,China,Dianchi Lake,Fish,Common carp,Cyprinus_carpio,Secondary consumer,Omnivore,freshwater,muscle,mean,29.33,ng g,0.3,FALSE,29.33,29.33,29.33,13,Liu et al (2011),
 12,China,Dianchi Lake,Fish,Common carp,Cyprinus_carpio,Secondary consumer,Omnivore,freshwater,gills,mean,35,ng g,0.3,FALSE,35,35,35,13,Liu et al (2011),
 12,China,Dianchi Lake,Fish,Common carp,Cyprinus_carpio,Secondary consumer,Omnivore,freshwater,liver,mean,100,ng g,0.3,FALSE,100,100,100,13,Liu et al (2011),
@@ -119,34 +119,34 @@ paper_ID,country,area,taxa,common_name,scientific_name,trophic_level,food_type,e
 14,Malaysia,Klang River estuary,Molluscs,Nertia,Nerita_lineata,Primary consumer,Herbivore,marine,muscle,mean,2.28,ng g,0.29,FALSE,2.28,2.28,2.28,30-40,Omar et al (2019),
 14,Malaysia,Klang River estuary,Molluscs,Nertia,Nerita_lineata,Primary consumer,Herbivore,marine,muscle,min,1.17,ng g,0.29,FALSE,1.17,1.17,1.17,30-40,Omar et al (2019),
 14,Malaysia,Klang River estuary,Molluscs,Nertia,Nerita_lineata,Primary consumer,Herbivore,marine,muscle,max,2.95,ng g,0.29,FALSE,2.95,2.95,2.95,30-40,Omar et al (2019),
-15,China,Hun River,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,12.5,ng g,0.1,FALSE,12.5,12.5,12.5,94,Zheng et al (2015),https://www.sciencedirect.com/science/article/pii/S004565351401234X
-15,China,Hun River,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,15.5,ng g,0.1,FALSE,15.5,15.5,15.5,71,Zheng et al (2015),
-15,China,Hun River,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,22.5,ng g,0.1,FALSE,22.5,22.5,22.5,54,Zheng et al (2015),
-15,China,Hun River,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,49,ng g,0.1,FALSE,49,49,49,69,Zheng et al (2015),
-15,China,Hun River,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,23.5,ng g,0.1,FALSE,23.5,23.5,23.5,46,Zheng et al (2015),
-15,China,Hun River,Fish,Crucian carp ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,22.5,ng g,0.1,FALSE,22.5,22.5,22.5,46,Zheng et al (2015),
+15,China,Hun River,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,12.5,ng g,0.1,FALSE,12.5,12.5,12.5,94,Zheng et al (2015),https://www.sciencedirect.com/science/article/pii/S004565351401234X
+15,China,Hun River,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,15.5,ng g,0.1,FALSE,15.5,15.5,15.5,71,Zheng et al (2015),
+15,China,Hun River,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,22.5,ng g,0.1,FALSE,22.5,22.5,22.5,54,Zheng et al (2015),
+15,China,Hun River,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,49,ng g,0.1,FALSE,49,49,49,69,Zheng et al (2015),
+15,China,Hun River,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,23.5,ng g,0.1,FALSE,23.5,23.5,23.5,46,Zheng et al (2015),
+15,China,Hun River,Fish,CrucianÂ carpÂ ,Carassius_auratus,Secondary consumer,Omnivore,freshwater,muscle,mean,22.5,ng g,0.1,FALSE,22.5,22.5,22.5,46,Zheng et al (2015),
 16,Singapore,,Crustaceans,tiger prawn,Penaeus_monodon,Primary consumer,Detritivore,marine,muscle,mean,13.3,ng g,1.35,FALSE,13.3,13.3,13.3,5,Basheer et al (2004),https://reader.elsevier.com/reader/sd/pii/S0025326X04001560?token=B8841EED30E4AC70FB7FC6E1C13616D5AAF0CFE7F0C5302C0FA2139F2811068DCEC96DC703C6A999A6E021A9DB7E63D8
 16,Singapore,,Crustaceans,swimming crab,Portunus_pelagicus,Secondary consumer,Carnivore,marine,muscle,mean,213.1,ng g,1.35,FALSE,213.1,213.1,213.1,5,Basheer et al (2004),
-16,Singapore,,Molluscs,Blood cockle ,Anadara_granosa,Primary consumer,Planktivore,marine,whole body,mean,56.5,ng g,1.35,FALSE,56.5,56.5,56.5,5,Basheer et al (2004),
-16,Singapore,,Molluscs,White clam ,Meretrix_meretrix,Primary consumer,Planktivore,marine,whole body,mean,27.4,ng g,1.35,FALSE,27.4,27.4,27.4,5,Basheer et al (2004),
+16,Singapore,,Molluscs,Blood cockleÂ ,Anadara_granosa,Primary consumer,Planktivore,marine,whole body,mean,56.5,ng g,1.35,FALSE,56.5,56.5,56.5,5,Basheer et al (2004),
+16,Singapore,,Molluscs,White clamÂ ,Meretrix_meretrix,Primary consumer,Planktivore,marine,whole body,mean,27.4,ng g,1.35,FALSE,27.4,27.4,27.4,5,Basheer et al (2004),
 16,Singapore,,Molluscs,Squid,Loligo,Secondary consumer,Carnivore,marine,muscle,mean,118.9,ng g,1.35,FALSE,118.9,118.9,118.9,5,Basheer et al (2004),
 16,Singapore,,Fish,Indian Scad,Decapterus_russelli,Secondary consumer,Carnivore,marine,muscle,mean,65.6,ng g,1.35,FALSE,65.6,65.6,65.6,5,Basheer et al (2004),
 17,Netherland,,Fish,common bream,Abramis_brama,Secondary consumer,Omnivore,marine,muscle,mean,0.92,ng g,1.1,TRUE,0,0.46,0.650538239,20-25,Vethaak et al (2005),https://www.sciencedirect.com/science/article/pii/S0045653505000639
 17,Netherland,,Fish,European flounder,Platichthys_flesus,Secondary consumer,Carnivore,marine,muscle,mean,1.3,ng g,1.1,FALSE,1.3,1.3,1.3,20-25,Vethaak et al (2005),
-18,US,Boston Harbor’s Deer Islan,Plankton,zooplankton,,Primary consumer,Herbivore,marine,whole body,mean,9.18,ng g,0.8,FALSE,9.18,9.18,9.18,,Stuart et al (2005),https://www.sciencedirect.com/science/article/pii/S0021967305004358
-18,US,Boston Harbor’s Deer Islan,Molluscs,hard clam,Mercenaria_mercenaria,Primary consumer,Planktivore,marine,gills,mean,21.95,ng g,0.8,FALSE,21.95,21.95,21.95,3,Stuart et al (2005),
-19,Spain,Spanish Atlantic coast and Bay of Biscay,Molluscs,Mediterranean mussel,Mytilus_galloprovincialis,Primary consumer,Planktivore,marine,muscle,mean,60.3,ng g,0.9,FALSE,60.3,60.3,60.3,6,Salgueiro-González et al (2016),https://www.sciencedirect.com/science/article/pii/S0025326X16301345
-19,Spain,Spanish Atlantic coast and Bay of Biscay,Molluscs,Mediterranean mussel,Mytilus_galloprovincialis,Primary consumer,Planktivore,marine,muscle,min,3.3,ng g,0.9,FALSE,3.3,3.3,3.3,6,Salgueiro-González et al (2016),
-19,Spain,Spanish Atlantic coast and Bay of Biscay,Molluscs,Mediterranean mussel,Mytilus_galloprovincialis,Primary consumer,Planktivore,marine,muscle,max,197,ng g,0.9,FALSE,197,197,197,6,Salgueiro-González et al (2016),
+18,US,Boston HarborÂ’s Deer Islan,Plankton,zooplankton,,Primary consumer,Herbivore,marine,whole body,mean,9.18,ng g,0.8,FALSE,9.18,9.18,9.18,,Stuart et al (2005),https://www.sciencedirect.com/science/article/pii/S0021967305004358
+18,US,Boston HarborÂ’s Deer Islan,Molluscs,hard clam,Mercenaria_mercenaria,Primary consumer,Planktivore,marine,gills,mean,21.95,ng g,0.8,FALSE,21.95,21.95,21.95,3,Stuart et al (2005),
+19,Spain,Spanish Atlantic coast and Bay of Biscay,Molluscs,Mediterranean mussel,Mytilus_galloprovincialis,Primary consumer,Planktivore,marine,muscle,mean,60.3,ng g,0.9,FALSE,60.3,60.3,60.3,6,Salgueiro-GonzÃ¡lez et al (2016),https://www.sciencedirect.com/science/article/pii/S0025326X16301345
+19,Spain,Spanish Atlantic coast and Bay of Biscay,Molluscs,Mediterranean mussel,Mytilus_galloprovincialis,Primary consumer,Planktivore,marine,muscle,min,3.3,ng g,0.9,FALSE,3.3,3.3,3.3,6,Salgueiro-GonzÃ¡lez et al (2016),
+19,Spain,Spanish Atlantic coast and Bay of Biscay,Molluscs,Mediterranean mussel,Mytilus_galloprovincialis,Primary consumer,Planktivore,marine,muscle,max,197,ng g,0.9,FALSE,197,197,197,6,Salgueiro-GonzÃ¡lez et al (2016),
 20,Poland,Gulf of Gdansk,Plankton,phytoplankton,,Primary producer,Autotroph,marine,whole body,mean,97.6,ng g,2,FALSE,97.6,97.6,97.6,,Staniszewska et al (2014),https://link.springer.com/article/10.1007%2Fs00244-014-0023-9
 20,Poland,Gulf of Gdansk,Plankton,phytoplankton,,Primary producer,Autotroph,marine,whole body,min,30.5,ng g,2,FALSE,30.5,30.5,30.5,,Staniszewska et al (2014),
 20,Poland,Gulf of Gdansk,Plankton,phytoplankton,,Primary producer,Autotroph,marine,whole body,max,97.6,ng g,2,FALSE,97.6,97.6,97.6,,Staniszewska et al (2014),
 20,Poland,Gulf of Gdansk,Plankton,zooplankton,,Primary consumer,Herbivore,marine,whole body,mean,405.9,ng g,2,FALSE,405.9,405.9,405.9,,Staniszewska et al (2014),
 20,Poland,Gulf of Gdansk,Plankton,zooplankton,,Primary consumer,Herbivore,marine,whole body,min,105.7,ng g,2,FALSE,105.7,105.7,105.7,,Staniszewska et al (2014),
 20,Poland,Gulf of Gdansk,Plankton,zooplankton,,Primary consumer,Herbivore,marine,whole body,max,769.2,ng g,2,FALSE,769.2,769.2,769.2,,Staniszewska et al (2014),
-20,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,mean,43.3,ng g,2,FALSE,43.3,43.3,43.3,5,Staniszewska et al (2014),
-20,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,min,6.8,ng g,2,FALSE,6.8,6.8,6.8,5,Staniszewska et al (2014),
-20,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,max,197.2,ng g,2,FALSE,197.2,197.2,197.2,5,Staniszewska et al (2014),
+20,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,mean,43.3,ng g,2,FALSE,43.3,43.3,43.3,5,Staniszewska et al (2014),
+20,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,min,6.8,ng g,2,FALSE,6.8,6.8,6.8,5,Staniszewska et al (2014),
+20,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,max,197.2,ng g,2,FALSE,197.2,197.2,197.2,5,Staniszewska et al (2014),
 20,Poland,Gulf of Gdansk,Fish,Atlantic herring,Clupea_harengus,Primary consumer,Planktivore,marine,whole body,mean,105.8,ng g,2,FALSE,105.8,105.8,105.8,10,Staniszewska et al (2014),
 20,Poland,Gulf of Gdansk,Fish,Atlantic herring,Clupea_harengus,Primary consumer,Planktivore,marine,muscle,mean,98.6,ng g,2,FALSE,98.6,98.6,98.6,10,Staniszewska et al (2014),
 20,Poland,Gulf of Gdansk,Fish,Atlantic herring,Clupea_harengus,Primary consumer,Planktivore,marine,liver,mean,81,ng g,2,FALSE,81,81,81,10,Staniszewska et al (2014),
@@ -206,7 +206,7 @@ paper_ID,country,area,taxa,common_name,scientific_name,trophic_level,food_type,e
 25,China,Bohai sea,Molluscs,black clam,Cyclina_sinensis,Primary consumer,Planktivore,marine,muscle,mean,1.511,ng g,0.2,FALSE,1.511,1.511,1.511,11,Liao & Kannan (2019),
 25,China,Bohai sea,Molluscs,chinese scallop,Chlamys_farreri,Primary consumer,Planktivore,marine,muscle,mean,0.927,ng g,0.2,FALSE,0.927,0.927,0.927,22,Liao & Kannan (2019),
 25,China,Bohai sea,Molluscs,,Scapharca_subcrenata,Primary consumer,Planktivore,marine,muscle,mean,0.267,ng g,0.2,FALSE,0.267,0.267,0.267,21,Liao & Kannan (2019),
-25,China,Bohai sea,Molluscs,White clam ,Meretrix_meretrix,Primary consumer,Planktivore,marine,muscle,mean,8.7,ng g,0.2,FALSE,8.7,8.7,8.7,10,Liao & Kannan (2019),
+25,China,Bohai sea,Molluscs,White clamÂ ,Meretrix_meretrix,Primary consumer,Planktivore,marine,muscle,mean,8.7,ng g,0.2,FALSE,8.7,8.7,8.7,10,Liao & Kannan (2019),
 25,China,Bohai sea,Molluscs,common mussel,Mytilus_edulis,Primary consumer,Planktivore,marine,muscle,mean,1.15,ng g,0.2,FALSE,1.15,1.15,1.15,12,Liao & Kannan (2019),
 25,China,Bohai sea,Molluscs,oyster,Crassostrea_talienwhanensis,Primary consumer,Planktivore,marine,muscle,mean,1.01,ng g,0.2,FALSE,1.01,1.01,1.01,12,Liao & Kannan (2019),
 25,China,Bohai sea,Molluscs,,Amusium,Primary consumer,Planktivore,marine,muscle,mean,0.59,ng g,0.2,FALSE,0.59,0.59,0.59,19,Liao & Kannan (2019),
@@ -284,15 +284,15 @@ paper_ID,country,area,taxa,common_name,scientific_name,trophic_level,food_type,e
 31,Poland,Gulf of Gdansk,Plankton,phytoplankton,,Primary producer,Autotroph,marine,whole sample,mean,190,ng g,0.8,FALSE,190,190,190,,Staniszewska et al (2017),
 31,Poland,Gulf of Gdansk,Plankton,phytoplankton,,Primary producer,Autotroph,marine,whole sample,min,10,ng g,0.8,FALSE,10,10,10,,Staniszewska et al (2017),
 31,Poland,Gulf of Gdansk,Plankton,phytoplankton,,Primary producer,Autotroph,marine,whole sample,max,550,ng g,0.8,FALSE,550,550,550,,Staniszewska et al (2017),
-31,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,mean,30,ng g,0.8,FALSE,30,30,30,,Staniszewska et al (2017),
-31,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,min,10,ng g,0.8,FALSE,10,10,10,,Staniszewska et al (2017),
-31,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,max,50,ng g,0.8,FALSE,50,50,50,,Staniszewska et al (2017),
-31,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,mean,75,ng g,0.8,FALSE,75,75,75,,Staniszewska et al (2017),
-31,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,min,55,ng g,0.8,FALSE,55,55,55,,Staniszewska et al (2017),
-31,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,max,220,ng g,0.8,FALSE,220,220,220,,Staniszewska et al (2017),
-31,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,mean,10,ng g,0.8,FALSE,10,10,10,,Staniszewska et al (2017),
-31,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,min,1,ng g,0.8,FALSE,1,1,1,,Staniszewska et al (2017),
-31,Poland,Gulf of Gdansk,Molluscs,Bay mussel ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,max,15,ng g,0.8,FALSE,15,15,15,,Staniszewska et al (2017),
+31,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,mean,30,ng g,0.8,FALSE,30,30,30,,Staniszewska et al (2017),
+31,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,min,10,ng g,0.8,FALSE,10,10,10,,Staniszewska et al (2017),
+31,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,max,50,ng g,0.8,FALSE,50,50,50,,Staniszewska et al (2017),
+31,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,mean,75,ng g,0.8,FALSE,75,75,75,,Staniszewska et al (2017),
+31,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,min,55,ng g,0.8,FALSE,55,55,55,,Staniszewska et al (2017),
+31,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,max,220,ng g,0.8,FALSE,220,220,220,,Staniszewska et al (2017),
+31,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,mean,10,ng g,0.8,FALSE,10,10,10,,Staniszewska et al (2017),
+31,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,min,1,ng g,0.8,FALSE,1,1,1,,Staniszewska et al (2017),
+31,Poland,Gulf of Gdansk,Molluscs,Bay musselÂ ,Mytilus_trossulus,Primary consumer,Planktivore,marine,muscle,max,15,ng g,0.8,FALSE,15,15,15,,Staniszewska et al (2017),
 32,Portugal,Minho River,Molluscs,Asian Clam,Corbicula_fluminea,Primary consumer,Planktivore,marine,muscle,min,3.3,ng g,3.3,TRUE,0,1.65,2.333452378,,Salgueiro-Gonzalez et al (2015),https://www.sciencedirect.com/science/article/pii/S0048969715301066?via%3Dihub
 32,Portugal,Minho River,Molluscs,Asian Clam,Corbicula_fluminea,Primary consumer,Planktivore,marine,muscle,max,412,ng g,3.3,FALSE,412,412,412,,Salgueiro-Gonzalez et al (2015),
 33,Hong Kong,YCT,Fish,Chinese damsel,Neopomacentrus_bankieri,Secondary consumer,Omnivore,marine,muscle,mean,96.6,ng g,2,FALSE,96.6,96.6,96.6,2,Xu et al (2016),https://www.sciencedirect.com/science/article/pii/S0269749116303554
@@ -314,7 +314,7 @@ paper_ID,country,area,taxa,common_name,scientific_name,trophic_level,food_type,e
 36,Malaysia,,Molluscs,Green mussel,Perna_viridis,Primary consumer,Planktivore,marine,muscle,mean,0.56,ng g,2,TRUE,0,0.28,0.395979797,,Yap (2014),https://www.cabdirect.org/cabdirect/abstract/20143254833
 36,Malaysia,,Molluscs,Green mussel,Perna_viridis,Primary consumer,Planktivore,marine,muscle,mean,0.51,ng g,2,TRUE,0,0.255,0.360624458,,Yap (2014),
 36,Malaysia,,Molluscs,Green mussel,Perna_viridis,Primary consumer,Planktivore,marine,muscle,mean,4.2,ng g,2,FALSE,4.2,4.2,4.2,,Yap (2014),
-37,Taiwan,,Fish,Mozambique tilapia ,Oreochromis_mossambicus,Secondary consumer,Omnivore,freshwater,muscle,mean,30.8,ng g,0.99,FALSE,30.8,30.8,30.8,6,Chen et al (2012),https://www.sciencedirect.com/science/article/pii/S0039914011010885
+37,Taiwan,,Fish,Mozambique tilapiaÂ ,Oreochromis_mossambicus,Secondary consumer,Omnivore,freshwater,muscle,mean,30.8,ng g,0.99,FALSE,30.8,30.8,30.8,6,Chen et al (2012),https://www.sciencedirect.com/science/article/pii/S0039914011010885
 38,Spain,Basque Country,Fish,Thicklip grey mullet,Chelon_labrosus,Secondary consumer,Omnivore,marine,bile,mean,177.8,ng g,0.04,FALSE,177.8,177.8,177.8,60-100,Bizarro et al (2014),https://www.sciencedirect.com/science/article/pii/S014111361300189X
 38,Spain,Basque Country,Fish,Thicklip grey mullet,Chelon_labrosus,Secondary consumer,Omnivore,marine,bile,mean,31.86,ng g,0.04,FALSE,31.86,31.86,31.86,60-100,Bizarro et al (2014),
 38,Spain,Basque Country,Fish,Thicklip grey mullet,Chelon_labrosus,Secondary consumer,Omnivore,marine,bile,mean,86.7,ng g,0.04,FALSE,86.7,86.7,86.7,60-100,Bizarro et al (2014),
@@ -348,8 +348,8 @@ paper_ID,country,area,taxa,common_name,scientific_name,trophic_level,food_type,e
 45,Spain,Llobregat river,Fish,Common carp,Cyprinus_carpio,Secondary consumer,Omnivore,freshwater,whole body,min,0.03,ng g,0.03,TRUE,0,0.015,0.021213203,3,Jakimska et al (2013),
 45,Spain,Llobregat river,Fish,Common carp,Cyprinus_carpio,Secondary consumer,Omnivore,freshwater,whole body,max,223.91,ng g,0.03,FALSE,223.91,223.91,223.91,3,Jakimska et al (2013),
 45,Spain,Llobregat river,Fish,pumpkinseeds,Lepomis_gibbosus,Secondary consumer,Carnivore,freshwater,whole body,mean,0.03,ng g,0.03,TRUE,0,0.015,0.021213203,3,Jakimska et al (2013),
-45,Spain,Guadalquivir river,Fish,Andalusian barbel ,Luciobarbus_sclateri,Secondary consumer,Omnivore,freshwater,whole body,min,0.03,ng g,0.03,TRUE,0,0.015,0.021213203,3,Jakimska et al (2013),
-45,Spain,Guadalquivir river,Fish,Andalusian barbel ,Luciobarbus_sclateri,Secondary consumer,Omnivore,freshwater,whole body,max,59.09,ng g,0.03,FALSE,59.09,59.09,59.09,3,Jakimska et al (2013),
+45,Spain,Guadalquivir river,Fish,Andalusian barbelÂ ,Luciobarbus_sclateri,Secondary consumer,Omnivore,freshwater,whole body,min,0.03,ng g,0.03,TRUE,0,0.015,0.021213203,3,Jakimska et al (2013),
+45,Spain,Guadalquivir river,Fish,Andalusian barbelÂ ,Luciobarbus_sclateri,Secondary consumer,Omnivore,freshwater,whole body,max,59.09,ng g,0.03,FALSE,59.09,59.09,59.09,3,Jakimska et al (2013),
 46,Japan,Nagasaki University,Fish,Spotted halibut,Varaspar_variegates,Secondary consumer,Carnivore,marine,whole body,mean,9340,ng g,10,FALSE,9340,9340,9340,,Lee et al (2004),https://www.jstage.jst.go.jp/article/fishsci1994/70/1/70_1_192/_article/-char/ja/
 46,Japan,Nagasaki University,Fish,Spotted halibut,Varaspar_variegates,Secondary consumer,Carnivore,marine,whole body,mean,2300,ng g,10,FALSE,2300,2300,2300,,Lee et al (2004),
 46,Japan,Nagasaki University,Fish,Spotted halibut,Varaspar_variegates,Secondary consumer,Carnivore,marine,whole body,mean,10,ng g,10,TRUE,0,5,7.071067812,,Lee et al (2004),
@@ -483,7 +483,7 @@ paper_ID,country,area,taxa,common_name,scientific_name,trophic_level,food_type,e
 59,China,Taihu lake,Fish,gobies,Ctenogobius_giurinus,Secondary consumer,Omnivore,freshwater,whole sample,mean,11,ng g,0.147,FALSE,11,11,11,15,Wang et al (2017),
 59,China,Taihu lake,Fish,whitebait,Reganisalanx_brachyrostralis,Primary consumer,Planktivore,freshwater,whole sample,mean,1,ng g,0.147,FALSE,1,1,1,30,Wang et al (2017),larvae
 59,China,Taihu lake,Fish,minnows,Hemiculter_leucisculus,Primary consumer,Detritivore,freshwater,whole sample,mean,2,ng g,0.147,FALSE,2,2,2,15,Wang et al (2017),
-59,China,Taihu lake,Fish,Crucian carp ,Carassius_cuvieri,Primary consumer,Herbivore,freshwater,whole sample,mean,14.5,ng g,0.147,FALSE,14.5,14.5,14.5,15,Wang et al (2017),
+59,China,Taihu lake,Fish,CrucianÂ carpÂ ,Carassius_cuvieri,Primary consumer,Herbivore,freshwater,whole sample,mean,14.5,ng g,0.147,FALSE,14.5,14.5,14.5,15,Wang et al (2017),
 59,China,Taihu lake,Fish,anchovy,Coilia_mystus,Primary consumer,Planktivore,freshwater,whole sample,mean,4,ng g,0.147,FALSE,4,4,4,20,Wang et al (2017),
 59,China,Taihu lake,Fish,snake fish,Monopterus_albus,Secondary consumer,Carnivore,freshwater,whole sample,mean,1.5,ng g,0.147,FALSE,1.5,1.5,1.5,10,Wang et al (2017),
 60,US,Hunting creek,Fish,white perch,Morone_americana,Secondary consumer,Carnivore,freshwater,whole body,mean,110,ng g,1,FALSE,110,110,110,,Arya et al (2017),https://www.tandfonline.com/doi/full/10.1080/10934529.2017.1312975
@@ -533,7 +533,7 @@ paper_ID,country,area,taxa,common_name,scientific_name,trophic_level,food_type,e
 64,China,Pearl river delta,Fish,Tilapia,Oreochromis_mossambicus,Secondary consumer,Omnivore,freshwater,muscle,mean,0.14,ng g,0.05,FALSE,0.14,0.14,0.14,10,Wei et al (2011),
 64,China,Pearl river delta,Fish,Bartail flathead,Platycephalus_indicus,Secondary consumer,Carnivore,marine,muscle,mean,0.006,ng g,0.05,FALSE,0.006,0.006,0.006,6,Wei et al (2011),
 64,China,Pearl river delta,Fish,Bigeye,Priacanthus_acracanthus,Secondary consumer,Carnivore,marine,muscle,mean,0.07,ng g,0.05,FALSE,0.07,0.07,0.07,33,Wei et al (2011),
-64,China,Pearl river delta,Fish,Bleeker’s grouper,Epinephelus_bleekeri,Secondary consumer,Carnivore,marine,muscle,mean,0.05,ng g,0.05,TRUE,0,0.025,0.035355339,10,Wei et al (2011),
+64,China,Pearl river delta,Fish,BleekerÂ’s grouper,Epinephelus_bleekeri,Secondary consumer,Carnivore,marine,muscle,mean,0.05,ng g,0.05,TRUE,0,0.025,0.035355339,10,Wei et al (2011),
 64,China,Pearl river delta,Fish,Goldspotted rabbitfish,Siganus_punctatus,Primary consumer,Herbivore,marine,muscle,mean,0.007,ng g,0.05,FALSE,0.007,0.007,0.007,15,Wei et al (2011),
 64,China,Pearl river delta,Fish,Golden threadfin bream,Nemipterus_virgatus,Secondary consumer,Carnivore,marine,muscle,mean,0.08,ng g,0.05,FALSE,0.08,0.08,0.08,36,Wei et al (2011),
 64,China,Pearl river delta,Fish,Orange-spotted grouper,Epinephelus_coioides,Secondary consumer,Carnivore,marine,muscle,mean,0.07,ng g,0.05,FALSE,0.07,0.07,0.07,9,Wei et al (2011),
