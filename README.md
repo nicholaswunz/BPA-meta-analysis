@@ -8,7 +8,7 @@ This repository contains code and data needed to reproduce the article:
 - meta data raw.csv    - Meta-data used for the meta-analysis.
 - BPA level enviro.csv - Environmental BPA data used for the analysis.
 - BPA level taxa.csv   - BPA in aquatic organisms data used for the analysis.
-- world_2.csv          - BPA and plastic level data used for the analysis.
+- world_2.csv          - Global BPA and plastic level data used for the analysis.
 - phylo_cor_all.RDAT   - Phylogenetic co-variance matrix for the meta-analysis.
 
 **R codes**
